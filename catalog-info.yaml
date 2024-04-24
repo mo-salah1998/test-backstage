@@ -14,7 +14,7 @@ metadata:
     - title: Discord Chat
       url: https://discord.com/invite/EBHEGzX
   annotations:
-    strivly.io/workspaces: true
+    'strivly.io/workspaces': 'true',
 spec:
   type: library
   owner: CNCF

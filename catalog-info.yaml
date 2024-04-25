@@ -19,6 +19,6 @@ metadata:
     lighthouse.com/website-url: https://backstage.io
     strivly.io/workspaces: true
 spec:
-  type: library
+  type: service
   owner: CNCF
   lifecycle: experimental

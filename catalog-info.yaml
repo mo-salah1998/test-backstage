@@ -20,5 +20,5 @@ metadata:
     strivly.io/workspaces: true
 spec:
   type: service
-  owner: CNCF
+  owner: team-a
   lifecycle: experimental
